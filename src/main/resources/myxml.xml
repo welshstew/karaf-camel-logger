@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+    <groupId>com.nullendpoint.fuse</groupId>
+    <artifactId>karaf-camel-logger</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>bundle</packaging>
+    <name>JBoss Fuse Quickstart: camel-log</name>
+    <description>Camel Log Example</description>
+</project>
